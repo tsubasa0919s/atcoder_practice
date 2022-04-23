@@ -1,0 +1,1 @@
+puts gets.chomp.split.map{7 - _1.to_i}.inject(:+)

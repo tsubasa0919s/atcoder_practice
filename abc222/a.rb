@@ -1,0 +1,1 @@
+puts "%04d" % gets.to_i

@@ -1,0 +1,1 @@
+puts gets.chomp.split("").rotate(1).join
